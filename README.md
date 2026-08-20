@@ -39,9 +39,9 @@
 
 기록은 주제별로 관리합니다.
 
-- BigData
+- [BigData](BigData/README.md)
 - Python
-- AI / ML  
+- [AI (Agent & LLM)](AI/README.md)
 - Git / GitHub  
 - CS (자료구조, 네트워크 등)
 
