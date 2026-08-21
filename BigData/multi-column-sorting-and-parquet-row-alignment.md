@@ -30,4 +30,4 @@ Parquet은 **내부 인덱스 정합성**을 통해 컬럼형 저장을 유지�
 
 ---
 
-**◀ 이전 글**: [05. Parquet의 Predicate Pushdown 원리](parquet-columnar-storage-and-predicate-pushdown.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [07. Hadoop MapReduce에서 PySpark로의 진화](mapreduce-evolution-from-hadoop-java-to-pyspark.md)
+**◀ 이전 글**: [05. Parquet의 Predicate Pushdown 원리](parquet-columnar-storage-and-predicate-pushdown.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [07. Hadoop 생태계: HDFS 저장과 MapReduce 연산의 분리](hadoop-ecosystem-hdfs-storage-vs-mapreduce-compute.md)

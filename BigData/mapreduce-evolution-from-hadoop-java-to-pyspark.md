@@ -23,4 +23,4 @@ word_counts = text_df.groupBy("word").count()
 
 ---
 
-**◀ 이전 글**: [06. Parquet 행 정합성과 다차원 정렬/Z-Order](multi-column-sorting-and-parquet-row-alignment.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [08. PySpark의 Driver/Executor와 Shuffle](pyspark-driver-executor-and-shuffle.md)
+**◀ 이전 글**: [07. Hadoop 생태계: HDFS 저장과 MapReduce 연산의 분리](hadoop-ecosystem-hdfs-storage-vs-mapreduce-compute.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [09. MapReduce 셔플의 해시 분배 규칙과 Combiner](mapreduce-shuffle-mechanism-and-combiner.md)

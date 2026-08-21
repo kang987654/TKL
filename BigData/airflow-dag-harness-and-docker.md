@@ -30,4 +30,4 @@ Airflow는 **복잡한 분산 데이터 작업들의 안전한 실행 흐름을 
 
 ---
 
-**◀ 이전 글**: [08. PySpark의 Driver/Executor와 Shuffle](pyspark-driver-executor-and-shuffle.md) | [🏠 목차 (README)](README.md)
+**◀ 이전 글**: [15. In-Mapper Top-K와 cleanup() 우선순위 큐](in-mapper-topk-search-optimization-and-cleanup.md) | [🏠 목차 (README)](README.md)

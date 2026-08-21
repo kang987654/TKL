@@ -36,4 +36,4 @@ aggregated_df = filtered_df.groupBy("category").agg(avg("price"))
 
 ---
 
-**◀ 이전 글**: [07. Hadoop MapReduce에서 PySpark로의 진화](mapreduce-evolution-from-hadoop-java-to-pyspark.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [09. Airflow DAG 하네스와 Docker](airflow-dag-harness-and-docker.md)
+**◀ 이전 글**: [10. Mapper와 Reducer의 태스크 실행과 로컬 셔플 I/O](mapper-reducer-task-execution-and-local-shuffle.md) | [🏠 목차 (README)](README.md) | **다음 글 ▶**: [12. 2-Phase 분산 행렬 곱셈과 MapReduce 체이닝](distributed-matrix-multiplication-two-phase-mapreduce.md)
